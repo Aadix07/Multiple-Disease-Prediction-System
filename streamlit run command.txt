@@ -1,0 +1,10 @@
+pip install streamlit
+pip install pickle5
+pip install streamlit-option-menu
+
+
+
+
+cd C:\Users\User\Multiple-Disease-Prediction-System
+
+streamlit run "C:\Users\User\Multiple-Disease-Prediction-System> streamlit run personal_health_guardian.py"
