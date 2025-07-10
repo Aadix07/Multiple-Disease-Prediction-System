@@ -7,4 +7,4 @@ pip install streamlit-option-menu
 
 cd C:\Users\User\Multiple-Disease-Prediction-System
 
-streamlit run "C:\Users\User\Multiple-Disease-Prediction-System> streamlit run personal_health_guardian.py"
+streamlit run "C:\Users\User\Multiple-Disease-Prediction-System> streamlit run app.py"
